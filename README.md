@@ -1,4 +1,4 @@
-# simple-site
+# simple-site with Parcel.js
 Example directly following [Maks Akymenko's tutorial](https://css-tricks.com/why-parcel-has-become-my-go-to-bundler-for-development/).
 
 ```bash
